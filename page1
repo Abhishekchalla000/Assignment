@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    
+</head>
+<body background="C:\Users\abhis\OneDrive\Desktop/ABCD.jpg" >
+
+    
+   <u><h1 align="middle" > Welcome to Registration page</h1></u>
+    <form method="post" action="Pageone.html">
+        
+     Enter your Email:<input type="email" placeholder="email" required><br><br>
+
+       Enter your password:<input type="password" placeholder="password" required>
+
+       Confirm password:<input type="password" placeholder="password" required><br><br>
+
+       Enter your mobile<input type="number" required placeholder="number" required ><br><br>
+
+       Enter your qualification:<br>
+       Post Graduation<input type="radio" name="qualification" value="Post Graduation">;
+       Graduation <input type="radio" name="qualification" value="Graduation">;
+       Inter<input type="radio" name="qualification" value="Inter" ><br><br>
+
+       Technical Skills:<br>
+       JAVA<input type="checkbox" name="Skills" value="JAVA">;    
+       C/C++<input type="checkbox" name="Skills" value="JAVA">;    
+       Python<input type="checkbox" name="Skills" value="JAVA"><br><br>
+
+       Upload your Resume:<input type="image" name="Resume" ><br><br>
+
+      <a href="Pageone.html"><input type="button" value="Upload"></a>
+
+
+
+
+    </form>
+</body>
+</html>
