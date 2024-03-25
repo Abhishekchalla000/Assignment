@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body >
+    <p align="middle" style="color: green;"> Succesfully Your Registration is Completed</p>
+    <i><u><h2>Welcome to Login page</h2></u></i>
+    <form method="post" action="homepage.html" >
+Enter your Email:<br>
+<input type="email"  ><br><br>
+
+Enter your Password:<br>
+<input type="password" required ><br>
+
+<a href="homepage.html"><input type="button" value="submit"></a>
+    </form>
+</body>
+</html>
