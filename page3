@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1 align="middle">Welcome to homepage </h1>
+
+</head>
+<body>
+    <marquee bgcolor="Yellow" direction="left">Hello Welcome to Everyone</marquee><br><br>
+    <img src="C:\Users\abhis\OneDrive\Desktop/ABCD.jpg" align="right" width="25%">
+    
+    <big><p>Here are some notes to get you started with Java</p></big>
+    <h2>Basics:</h2>
+    <ul>
+<li><b>Object-Oriented:</b>Java is an object-oriented programming language, meaning programs are built around objects that represent real-world entities.</li>
+<li><b>Platform Independent:</b>Java code is compiled into bytecode, which can run on any platform with a Java Virtual Machine (JVM). This makes Java write once, run anywhere.</li>
+<li><b>Syntax:</b>Java is an object-oriented programming language, meaning programs are built around objects that represent real-world entities.</li></li>
+</ul><br>
+
+<h2>Core Concepts:</h2>
+
+<ol>
+<li><b>Classes:</b>Classes are blueprints for creating objects. They define the properties (attributes) and functionalities (methods) of objects.</li>
+<li><b>Objects:</b>Objects are instances of classes. They hold data (attribute values) and can perform actions (method calls).</li>
+<li><b>Methods:</b> Methods are functions defined within a class that perform specific tasks on objects.</li>
+<li><b>Data Types:</b> Java has primitive data types for basic values like integers, characters, and booleans, and non-primitive data types like Strings and arrays.</li>
+</ol><br>
+
+<h2>Learning Resources:</h2>
+<ol>
+<li>Java Tutorial:<a href="https://docs.oracle.com/javase/tutorial/" >https://docs.oracle.com/javase/tutorial/</a></li>
+<li>GeeksforGeeks:<a href="https://www.geeksforgeeks.org/java/">https://www.geeksforgeeks.org/java/</a></li>
+<li>Javatpoint:<a href="https://www.javatpoint.com/java-tutorial">https://www.javatpoint.com/java-tutorial</a></li>
+</ol>
+
+<p>These are just some basic notes to introduce you to Java. There's a lot more to explore, but this should give you a starting point for further learning.</p>
+
+    
+</body>
+</html>
+
+
+
+!
